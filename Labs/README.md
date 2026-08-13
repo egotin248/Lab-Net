@@ -19,7 +19,4 @@
 | spine2 | 10.10.25.4/30 | 10.10.25.12/30 | 10.10.25.20/30 | 
 
 
-# Если файл называется "Clos-net.pdf" (без пробела в начале)
-git add "Labs/Lab01/Clos-net.pdf"
-git commit -m "Add PDF documentation"
-git push origin main
+
