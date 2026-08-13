@@ -18,7 +18,8 @@
 | spine1 | 10.10.25.0/30 | 10.10.25.8/30  | 10.10.25.16/30 | 
 | spine2 | 10.10.25.4/30 | 10.10.25.12/30 | 10.10.25.20/30 | 
 
-## Сеть CLOS
-git add Labs/Lab01/ Clos-net.pdf
+
+# Если файл называется "Clos-net.pdf" (без пробела в начале)
+git add "Labs/Lab01/Clos-net.pdf"
 git commit -m "Add PDF documentation"
 git push origin main
