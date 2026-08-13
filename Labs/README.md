@@ -20,5 +20,5 @@
 
 
 ### Схема сети
-![Clos-net.png](Labs/Clos-net.png)
+![Clos-net.png](Lab-Net/Labs/Clos-net.png)
 
