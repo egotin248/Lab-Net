@@ -19,5 +19,5 @@
 | spine2 | 10.10.25.4/30 | 10.10.25.12/30 | 10.10.25.20/30 | 
 
 ### Cхема сети 
-![Lab-1 Clos-net sreen](Labs/Lab-1-Clos-net.png)
+![Lab-1 Clos-netpng](Labs/Lab-1-Clos-net.png)
 
