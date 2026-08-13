@@ -19,6 +19,6 @@
 | spine2 | 10.10.25.4/30 | 10.10.25.12/30 | 10.10.25.20/30 | 
 
 ### Реализовать схему
-![Схема CLOS](Labs/Lab01/Clos-net.png)](Labs/Lab01/Clos-net.pdf)
+![Схема CLOS Labs/Lab01/Clos-net.png](Clos-net.pdf)
 
 
